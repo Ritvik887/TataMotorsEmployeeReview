@@ -7,7 +7,7 @@ Tata Motors Employee Review, Analysis, Insights and Recommendations
 - **The dataset was occupied by Kaggle.com**, credits to Manish Kumar, for curating the dataset and sourcing data from **Ambitionbox**.
   
 ***Objectives**
-- To **develop an instrument**, in the form of** a dashboard for stakeholders** to understand** poor ratings** and **employee satisfaction**.
+- To **develop an instrument**, in the form of **a dashboard for stakeholders** to understand **poor ratings** and **employee satisfaction**.
 - To track ratings over time.
 - Identify top-performing domains, **likes**, and **dislikes** of the employees.
 - Clean data, manage various blank values, illegible data entries, etc.
